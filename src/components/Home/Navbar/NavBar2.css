@@ -1,0 +1,23 @@
+.logo {
+    height: 80px;
+    width: 200px;
+    margin-left: 70px;
+    margin-right: 50px;
+    margin-bottom:2px;
+    margin-top: 2px;
+}
+
+.nav-link{
+margin-top: 7px;
+margin-left: 40px;
+font-weight: 1000px;
+
+}
+button{
+    width: 80px;
+    height: 30px;
+    background-color:lightblue;
+    border:1px;
+    padding-bottom: 5px;
+    
+}

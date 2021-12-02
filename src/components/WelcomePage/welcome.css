@@ -1,0 +1,11 @@
+.welcome{
+    background-color: lavenderblush;
+    height: 300px;
+    
+}
+.welcome-section{
+    height: 100px;
+    padding-top: 30px;
+    background-color: beige;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

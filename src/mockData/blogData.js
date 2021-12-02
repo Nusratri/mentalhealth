@@ -1,0 +1,5 @@
+var list=[{"title":"Do 10 things to gain a healthy life","image":"https://i.imgur.com/rQ6AZXS.png","designation":"Student","content":"Mental health is an integral part of our overall wellness. According to WHO (World Health Organization), mental health is defined as “a state of well-being in which every individual realizes his or her potential, can cope with the normal stresses of life, can work productively and fruitfully, and can contribute to her or his community.” When you have stable mental health, you feel good about life. As human beings, to reach a state of stability and balance, we must have good mental health. Part of that is awareness, and knowing ourselves. When your mental health is stable, you feel like you can manage the day-to-day life challenges you encounter. One way to maintain your mental health is to have a stable support system, and see a therapist every week. You might have anxious moments, but you can work through them. When your mental health is out of balance, you can suffer from mental health issues or mental illness."},
+
+
+]
+export default list;

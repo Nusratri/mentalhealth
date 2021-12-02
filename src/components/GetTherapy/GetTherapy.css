@@ -1,0 +1,17 @@
+.therapy{
+    background-image: url(../../images/back.jpg);
+    height: 500px;
+}
+h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:beige;
+    padding-top: 150px;
+    padding-left: 60px;
+}
+.btn{
+    margin-left: 60px;
+    width: 160px;
+    margin-top: 10px;
+    padding-bottom: 10px;
+    height: 50px;
+}

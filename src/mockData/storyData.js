@@ -1,0 +1,5 @@
+var story=[{"title":"Sana Rahman","image":"https://i.imgur.com/eAWZn9R.jpg","designation":"Student","story":"The biggest achievement I've made is, truly, fighting for myself. Through working with Aiko and taking the time to discuss various issues with her, I've become a bigger advocate for myself, and I'm so proud of that."},
+{"title":"Sana Rahman","image":"https://i.imgur.com/eAWZn9R.jpg","designation":"Student","story":"The biggest achievement I've made is, truly, fighting for myself. Through working with Aiko and taking the time to discuss various issues with her, I've become a bigger advocate for myself, and I'm so proud of that."},
+{"title":"Sana Rahman","image":"https://i.imgur.com/eAWZn9R.jpg","designation":"Student","story":"The biggest achievement I've made is, truly, fighting for myself. Through working with Aiko and taking the time to discuss various issues with her, I've become a bigger advocate for myself, and I'm so proud of that."},
+]
+export default story;

@@ -1,0 +1,30 @@
+.body-image{
+    width: 100%;
+    height: 450px;
+
+}
+
+h2{
+    text-align: center;
+    color:lightseagreen;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: blanchedalmond;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-weight: bolder;
+    font-size:larger;
+    
+}
+.body{
+    margin-top:50px;
+}
+.card-image{
+    width:100%;
+    height: 300px;
+
+    
+}
+.text{
+ font-family: Arial, Helvetica, sans-serif;
+ font-weight: bolder;
+}

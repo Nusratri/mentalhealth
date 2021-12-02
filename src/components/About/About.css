@@ -1,0 +1,28 @@
+.back{
+
+ background-image: url(../../images/back.jpeg);
+    height: 300px;
+}
+h4{
+    text-align: center;
+    padding-top: 80px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder ;
+    color: lightseagreen;
+    padding-bottom: 20px;
+}
+.crd{
+    padding-top: 50px;
+    
+
+}
+.pimg{
+    height: 100px;
+    width:100px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.ctn{
+
+    margin-left: 80px;
+}
